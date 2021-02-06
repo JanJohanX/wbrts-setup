@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "outDir": "./build/",
+    "esModuleInterop": true,
+    "preserveConstEnums": true,
+    "target": "ES6",
+    "strict": true
+  },
+  "include": ["src/"]
+}
