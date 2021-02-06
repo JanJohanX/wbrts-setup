@@ -18,7 +18,7 @@
     ],
     "no-var": "error",
     "semi": "error",
-    "@typescript-eslint/indent": ["error", 2],
+    "@typescript-eslint/indent": ["error", 4],
     "no-multi-spaces": "error",
     "space-in-parens": "error",
     "no-multiple-empty-lines": "error",
